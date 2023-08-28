@@ -1,0 +1,2 @@
+--INSERT INTO customers (first_name, last_name, email, phone, address) Values ('Sydney','Bartlett','nibh@ultricesposuere.edu','(982) 231-7357','4829 Badeau Parkway, Chattanooga, TN 37405');
+INSERT INTO customers (first_name, last_name, email, phone, address) VALUES ('Hunter','Newton','quam.quis.diam@facilisisfacilisis.org','(831) 996-1240','2 Rockefeller Avenue, Waco, TX 76796');
